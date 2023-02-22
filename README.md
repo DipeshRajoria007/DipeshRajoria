@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Dipesh Rajoria</h1>
 <img align="center" src="https://github.com/DipeshRajoria007/DipeshRajoria/blob/main/dipesh-rajoria-linkedin-banner.png" />
-<h3 align="center">A passionate frontend developer,</h3>
+<h3 align="center">A passionate fullStack developer,</h3>
 <h5 align="center" >I'm constantly pushing the boundaries of what's possible, bringing my creative ideas to life through code.</h5>
 
 
